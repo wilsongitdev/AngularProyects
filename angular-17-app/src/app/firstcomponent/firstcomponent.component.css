@@ -1,0 +1,20 @@
+section{
+    max-width: 600px;
+    margin: 0px auto;
+    padding: 20px;
+    font-size: 32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+section p{
+    text-align: center;
+}
+img{
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    object-fit: cover;
+    align-self: center;
+}

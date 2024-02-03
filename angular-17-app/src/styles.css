@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+
+}
+/*root es un seudoelemento de html que envuelve todo la página*/
+:root{
+    color-scheme: light dark;/*iniciar modo oscuro rapido*/
+}
